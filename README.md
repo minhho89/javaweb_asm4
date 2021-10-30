@@ -13,6 +13,13 @@ user: root
 password: password
 scheme name: mysql_database
 ```
+Other configure:
+```
+IDE: Spring-tool-suite
+Java version: 11
+Tomcat 9.0
+Packing: JAR
+```
 
 If you set up a database to run with difference information, please reconfigure file as steps below
 1. Open the project by your favorite IDE (Spring-tool-suite 4 is recommended):
