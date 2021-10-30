@@ -11,11 +11,11 @@ MySQL
 port: 3306
 user: root
 password: password
-scheme name: mysql_database
+schema name: mysql_database
 ```
 Other configure:
 ```
-IDE: Spring-tool-suite
+IDE: Spring-tool-suite-4
 Java version: 11
 Tomcat 9.0
 Packing: JAR
