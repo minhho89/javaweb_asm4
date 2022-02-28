@@ -32,7 +32,7 @@ spring.datasource.password=[your_pass_word]
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
-2. Open MySQL Workbench, in your schema please create a new table named "accounts"
+2. Open MySQL Workbench, in your schema create a new table named "accounts"
 ```
 CREATE TABLE accounts (
     id INT,
